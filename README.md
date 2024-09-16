@@ -6,6 +6,7 @@ https://esp.huhn.me/
 
 ![WhatsApp Image 2024-09-13 at 15 42 04](https://github.com/user-attachments/assets/79e126fa-d176-4a4b-8613-a941510be334)
 
+![Display180 grad](https://github.com/user-attachments/assets/df5959ad-e7a8-41af-8fab-4e9dad912beb)
 
 hold the boot button when you plug in .... change bootloader to 0x0000 !!!
 
